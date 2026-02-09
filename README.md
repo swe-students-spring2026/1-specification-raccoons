@@ -8,13 +8,14 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-Interviewee 1: Akhil Chava 
+Interviewee 1: Akhil Chava (NYU Student)
 
 Goals/Needs (4): 
-To find restaurants near campus quickly
-Make the most optimal restaurant choices based on nutrition
-Stay within budget as a student
-Explore a wide range of restaurants
+1. To find restaurants near campus quickly
+2. Make the most optimal restaurant choices based on nutrition
+3. Stay within budget as a student
+4. Explore a wide range of restaurants
+
 Frustration/Problem (4): 
 1. It is hard to filter restaurant by diet and nutrition
 2. It is difficult to find nutritious meals at a reasonable price
@@ -22,17 +23,18 @@ Frustration/Problem (4):
 4. Would like to have a wide range of restaurants selections: cheap and expensive
 5. Existing apps are not user friendly enough (too convoluted/gives too much information)
 
-Interviewee 2:
+Interviewee 2: 
 
 Goals: 
-Discover new restaurants easily
-See what friends/other students are interested in
-Decide quickly with menial effort
-Find the right restaurant that matches current cravings
+1. Discover new restaurants easily
+2. See what friends/other students are interested in
+3. Decide quickly with menial effort
+4. Find the right restaurant that matches current cravings
+
 Frustrations/Problems:
-Too much effort required to find good options
-Lack of personalized inspiration from existing apps
-No one food app is tailored to NYU students, so not a lot of great recommendations for on campus restaurants
+1. Too much effort required to find good options
+2. Lack of personalized inspiration from existing apps
+3. No one food app is tailored to NYU students, so not a lot of great recommendations for on campus restaurants
 
 
 ## Product Vision Statement

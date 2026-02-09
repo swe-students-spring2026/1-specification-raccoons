@@ -8,7 +8,32 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Interviewee 1: Akhil Chava 
+
+Goals/Needs (4): 
+To find restaurants near campus quickly
+Make the most optimal restaurant choices based on nutrition
+Stay within budget as a student
+Explore a wide range of restaurants
+Frustration/Problem (4): 
+1. It is hard to filter restaurant by diet and nutrition
+2. It is difficult to find nutritious meals at a reasonable price
+3. Finding a new, good restaurant takes too much effort
+4. Would like to have a wide range of restaurants selections: cheap and expensive
+5. Existing apps are not user friendly enough (too convoluted/gives too much information)
+
+Interviewee 2:
+
+Goals: 
+Discover new restaurants easily
+See what friends/other students are interested in
+Decide quickly with menial effort
+Find the right restaurant that matches current cravings
+Frustrations/Problems:
+Too much effort required to find good options
+Lack of personalized inspiration from existing apps
+No one food app is tailored to NYU students, so not a lot of great recommendations for on campus restaurants
+
 
 ## Product Vision Statement
 

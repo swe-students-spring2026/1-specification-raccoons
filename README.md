@@ -6,7 +6,7 @@
 
 - [Ethan](https://github.com/ethanarnold)
 - [Tao](https://github.com/tx715)
-- [Prabhav](https://github.com/ethanarnold)
+- [Prabhav](https://github.com/prabhavjalan)
 - [Andy](https://github.com/ethanarnold)
 
 ---
@@ -84,3 +84,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 ## Clickable Prototype
 
 [Click here](https://www.figma.com/proto/ucTxbALPp4mP2smV0djRKa/raccoons---wireframes?node-id=1-2&p=f&t=MOLVyP4BP2GqQzOA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) to view our prototype. Only members of the `SWE - Spring 2026` group on Figma have access.
+

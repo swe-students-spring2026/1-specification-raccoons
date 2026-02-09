@@ -19,7 +19,7 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 
 ## Stakeholders & their goals/needs
 
-### Stakeholder 1: Akhil Chava
+### Stakeholder 1: Akhil Chava (NYU Student)
 
 #### Goals/Needs
 
@@ -36,7 +36,7 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 4. Would like a wide range of restaurant selections: cheap and expensive
 5. Existing apps are not user-friendly enough (too convoluted / gives too much information)
 
-### Stakeholder 2:
+### Stakeholder 2: Aashi Doshi (NYU Student)
 
 #### Goals/Needs
 

@@ -77,6 +77,8 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 
 ## Activity Diagrams
 
+### UML Activity Diagram: User Registration Workflow
+
 ![Activity Diagram](images/UML-Activity-Diagram-1.png)
 
 ---

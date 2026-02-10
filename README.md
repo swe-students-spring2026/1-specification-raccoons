@@ -7,7 +7,7 @@
 - [Ethan](https://github.com/ethanarnold)
 - [Tao](https://github.com/tx715)
 - [Prabhav](https://github.com/prabhavjalan)
-- [Andy](https://github.com/ethanarnold)
+- [Andy](https://github.com/al8230)
 
 ---
 

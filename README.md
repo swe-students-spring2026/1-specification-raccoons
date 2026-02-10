@@ -81,6 +81,8 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 
 ![Activity Diagram](images/UML-Activity-Diagram-1.png)
 
+![Activity Diagram](images/UML-Activity-Diagram-2.png)
+
 ---
 
 ## Clickable Prototype

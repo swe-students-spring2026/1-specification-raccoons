@@ -1,13 +1,13 @@
 # VioletEats
 
-[Click here](https://www.figma.com/proto/ucTxbALPp4mP2smV0djRKa/raccoons---wireframes?node-id=1-2&p=f&t=MOLVyP4BP2GqQzOA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) to view our prototype. Only members of the `SWE - Spring 2026` group on Figma have access.
+[Click here](https://www.figma.com/proto/ucTxbALPp4mP2smV0djRKa/raccoons---wireframes?node-id=1-2&p=f&t=MOLVyP4BP2GqQzOA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) to view our prototype.
 
 ## Team members
 
 - [Ethan](https://github.com/ethanarnold)
 - [Tao](https://github.com/tx715)
 - [Prabhav](https://github.com/prabhavjalan)
-- [Andy](https://github.com/ethanarnold)
+- [Andy](https://github.com/andy8259)
 
 ---
 
@@ -50,12 +50,13 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 1. Too much effort required to find good options
 2. Lack of personalized inspiration from existing apps
 3. No food app is tailored to NYU students, so not a lot of great recommendations for on-campus restaurants
+4. Hard to sort by important criteria like Open Now or Distance
 
 ---
 
 ## User Requirements
 *(A non-exhaustive list)*
-- As a user, I want to create an account so that I can use the app.
+- As a user, I want to create an account with my phone number, email, and password so that I can access the VioletEats feed.
 - As a user, I want to log in with my email and password so that I can securely access my account.
 - As a user, I want to reset my password so that I can regain access if I forget it.
 - As a user, I want to change my password so that I can keep my account secure.
@@ -68,6 +69,9 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 - As a user, I want to browse restaurant menus in the app so that I can decide what to order before arriving.
 - As a user, I want to make a reservation quickly through the app so that I don't have to switch to another platform.
 - As a user, I want to see reviews and ratings from other users so that I can trust the recommendations.
+- As a user, I want to rate a restaurant so that I can share my experience with other users.
+- As a user, I want to search for a specific restaurant so that I can quickly find what I'm looking for.
+- As a user, I want to add a restaurant to one of my personal lists so that I can organize and keep track of places I like.
 - As a user, I want to see which restaurants my friends are interested in so that I can discover new places socially.
 - As a user, I want to have a wide variety of selections so I can satisfy my cravings at any time.
 - As a user, I want to discover new restaurants near campus so that I don't keep going to the same places.
@@ -75,17 +79,22 @@ Our app helps NYU students quickly discover walkable restaurants that match thei
 
 ---
 
-## Activity Diagrams
+## UML Activity Diagrams
 
-### UML Activity Diagram: User Registration Workflow
-
+### Diagram 1: Login and Registration
+Pertinent user stories:
+- As a new user, I want to create an account with my phone number, email, and password, so that I can access the VioletEats feed.
+- As a returning user, I want to log in with my credentials or reset my password if forgotten, so that I can access the VioletEats feed.
 ![Activity Diagram](images/UML-Activity-Diagram-1.png)
 
+### Diagram 2: Searching for & Reviewing a Restaurant
+Pertinent user story: 
+- As a user, I want to search for a restaurant, rate it, and add it to one of my lists so that I can organize and rank restaurants.
 ![Activity Diagram](images/UML-Activity-Diagram-2.png)
 
 ---
 
 ## Clickable Prototype
 
-[Click here](https://www.figma.com/proto/ucTxbALPp4mP2smV0djRKa/raccoons---wireframes?node-id=1-2&p=f&t=MOLVyP4BP2GqQzOA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) to view our prototype. Only members of the `SWE - Spring 2026` group on Figma have access.
+[Click here](https://www.figma.com/proto/ucTxbALPp4mP2smV0djRKa/raccoons---wireframes?node-id=1-2&p=f&t=MOLVyP4BP2GqQzOA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) to view our prototype.
 
